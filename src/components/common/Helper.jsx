@@ -47,6 +47,7 @@ export const allPlateforme = [
     discription: "Metatrader access to 10+ brokers",
     discriptionClass: "mb-4",
     logo: [broker],
+    logoSize:"lg:w-auto lg:h-auto w-[50px] h-[50px]"
   },
   {
     title: "Hedging Bot",

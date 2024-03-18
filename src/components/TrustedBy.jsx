@@ -19,7 +19,7 @@ const TrustedBy = () => {
   }, []);
   return (
     <div className="sm:pb-[100px] pb-12 xl:mt-[124px] lg:mt-24 md:mt-20 sm:mt-16 mt-12">
-      <div className="max-w-[1514px] mx-auto 2xl:px-0 px-3">
+      <div className="max-w-[1514px] mx-auto 2xl:px-0 px-5">
         <h2 className="text-black font-medium xl:text-6xl lg:text-5xl md:text-4xl text-3xl text-center mb-10">
           Tusted By
         </h2>
